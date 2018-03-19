@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<champignons>
+    <champignon>
+        <nom>Bolet Satan</nom>
+        <nomScientifique>Boletus Satanas</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <marge>Lisse</marge>
+        <pied>Obèse</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Gris</couleurChapeau>
+        <couleurChapeau>Marron</couleurChapeau>
+        <couleurHymenium>Jaune</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <couleurDuPied>Rouge</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Hébélome échaudé</nom>
+        <nomScientifique>HebelomaCrustuliniforme</nomScientifique>
+        <chapeau>Convexe</chapeau>
+        <marge>Enroulée</marge>
+        <pied>Renflé</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurChapeau>Ocre</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Hypholome en touffe</nom>
+        <nomScientifique>Hypholoma Fasciculare</nomScientifique>
+        <chapeau>Convexe</chapeau>
+        <marge>Frangée</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Jaunatre</couleurChapeau>
+        <couleurHymenium>Jaunatre</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Bolet blafard</nom>
+        <nomScientifique>Boletus luridus</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Lisse</marge>
+        <pied>Obèse</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurChapeau>Ocre</couleurChapeau>
+        <couleurHymenium>Jaune-Orange</couleurHymenium>
+        <couleurDuPied>Jaune-Orange</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Lactaire toisonné</nom>
+        <nomScientifique>Lactarius Torminosus</nomScientifique>
+        <chapeau>Déprimé</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Enroulée</marge>
+        <pied>Obèse</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Rose orangé</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurHymenium>Orange</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <couleurDuPied>Orange</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Amanite jonquille</nom>
+        <nomScientifique>Amanita Junquillea</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <marge>Lisse</marge>
+        <marge>Striée</marge>
+        <pied>Obèse</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Jaune</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Scléroderme commun</nom>
+        <nomScientifique>Scleroderma Citrinum</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <marge>Néant</marge>
+        <pied>Néant</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Jaunâtre</couleurChapeau>
+        <couleurHymenium>Néant</couleurHymenium>
+        <couleurDuPied>Néant</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Amanite panthère</nom>
+        <nomScientifique>Amanita pantherina</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <marge>Striée</marge>
+        <pied>Bulbeux</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurChapeau>Jaunâtre</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Mycène pure</nom>
+        <nomScientifique>Mycena pura</nomScientifique>
+        <chapeau>Conique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Striée</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Violacé</couleurChapeau>
+        <couleurHymenium>Violacé</couleurHymenium>
+        <couleurDuPied>Violacé</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Amanite tue-mouches</nom>
+        <nomScientifique>Amanita muscaria</nomScientifique>
+        <chapeau>Convexe</chapeau>
+        <chapeau>Plan</chapeau>
+        <marge>Lisse</marge>
+        <pied>Bulbeux</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Rouge</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Inocybe maculé</nom>
+        <nomScientifique>Inocybe Maculata</nomScientifique>
+        <chapeau>Conique</chapeau>
+        <marge>Ondulée</marge>
+        <pied>Grêle</pied>
+        <lame>Espacé</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurHymenium>Brun</couleurHymenium>
+        <couleurDuPied>Brun</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Inocybe à lames couleur de terre</nom>
+        <nomScientifique>Inocybe Geophylla</nomScientifique>
+        <chapeau>Conique</chapeau>
+        <marge>Striée</marge>
+        <pied>Grêle</pied>
+        <lame>Espacé</lame>
+        <couleurChapeau>Blanc</couleurChapeau>
+        <couleurHymenium>Beige</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Amanite rougissante</nom>
+        <nomScientifique>Amanita Rubescens</nomScientifique>
+        <chapeau>Plan</chapeau>
+        <marge>Lisse</marge>
+        <pied>Bulbeux</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Marron</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Brun</couleurDuPied>
+        <comestibilité>Toxique Cru</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Cortinaire citron</nom>
+        <nomScientifique>Cortinarius limonius</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <marge>Frangée</marge>
+        <pied>Obèse</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Orange</couleurChapeau>
+        <couleurHymenium>Orange</couleurHymenium>
+        <couleurDuPied>Orange</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Bolet à pied rouge</nom>
+        <nomScientifique>Boletus Erythropus</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Frangée</marge>
+        <pied>Renflé</pied>
+        <pied>Obèse</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurHymenium>Rouge</couleurHymenium>
+        <couleurDuPied>Rouge</couleurDuPied>
+        <comestibilité>Toxique Cru</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Amanite vireuse</nom>
+        <nomScientifique>Amanita Virosa</nomScientifique>
+        <chapeau>Plan</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Lisse</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Blanc</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Lépiote de Josserand</nom>
+        <nomScientifique>Lepiota Josserandii</nomScientifique>
+        <chapeau>Convexe</chapeau>
+        <marge>Frangée</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Blanc</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Pézize brune</nom>
+        <nomScientifique>Peziza Badia</nomScientifique>
+        <chapeau>Entonnoir</chapeau>
+        <marge>Néant</marge>
+        <pied>Néant</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurHymenium>Néant</couleurHymenium>
+        <couleurDuPied>Néant</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Galère marginée</nom>
+        <nomScientifique>Galerina Marginata</nomScientifique>
+        <chapeau>Convexe</chapeau>
+        <marge>Striée</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Brun/Jaune</couleurChapeau>
+        <couleurHymenium>Brun/Jaune</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Pholiotina filaris</nom>
+        <nomScientifique>Pholiotina filaris</nomScientifique>
+        <chapeau>Conique</chapeau>
+        <marge>Lisse</marge>
+        <marge>Striée</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Brun/Jaune</couleurChapeau>
+        <couleurHymenium>Jaune</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Toxique</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Amanite des Césars</nom>
+        <nomScientifique>Amanita Caesarea</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Striée</marge>
+        <pied>Bulbeux</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Orange</couleurChapeau>
+        <couleurHymenium>Jaune</couleurHymenium>
+        <couleurDuPied>Jaune</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Agaric des forêts</nom>
+        <nomScientifique>Agaricus Silvaticus</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Lisse</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurHymenium>Brun</couleurHymenium>
+        <couleurDuPied>Grisâtre</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Cèpe de Bordeaux</nom>
+        <nomScientifique>Boletus Edulis</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Lisse</marge>
+        <pied>Renflé</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Marron</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Cèpe bronzé</nom>
+        <nomScientifique>Boletus Aereus</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Lisse</marge>
+        <pied>Obèse</pied>
+        <pied>Renflé</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Brun</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Tricholome de la Saint-Georges</nom>
+        <nomScientifique>Calocybe Gambosa</nomScientifique>
+        <chapeau>Sphérique</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Enroulée</marge>
+        <pied>Bulbeux</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Blanc</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Girolle</nom>
+        <nomScientifique>Cantharellus Cibarius</nomScientifique>
+        <chapeau>Convexe</chapeau>
+        <marge>Ondulée</marge>
+        <pied>Obèse</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Jaune</couleurChapeau>
+        <couleurHymenium>Jaune</couleurHymenium>
+        <couleurDuPied>Jaune</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Coprin chevelu</nom>
+        <nomScientifique>Coprinus Comatus</nomScientifique>
+        <chapeau>Ovoïde</chapeau>
+        <marge>Lisse</marge>
+        <pied>Grêle</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Blanc</couleurChapeau>
+        <couleurHymenium>Noir</couleurHymenium>
+        <couleurDuPied>Blanc</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Marasme des Oréades</nom>
+        <nomScientifique>Marasmius Oreades</nomScientifique>
+        <chapeau>Mamelonné</chapeau>
+        <marge>Frangée</marge>
+        <pied>Grêle</pied>
+        <lame>Espacé</lame>
+        <couleurChapeau>Brun</couleurChapeau>
+        <couleurHymenium>Brun</couleurHymenium>
+        <couleurDuPied>Brun</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Lépiote élevée</nom>
+        <nomScientifique>Macrolepiota Procera</nomScientifique>
+        <chapeau>Ovoïde</chapeau>
+        <chapeau>Convexe</chapeau>
+        <marge>Cannelée</marge>
+        <pied>Grêle</pied>
+        <lame>Serrées</lame>
+        <couleurChapeau>Blanchâtre</couleurChapeau>
+        <couleurHymenium>Blanc</couleurHymenium>
+        <couleurDuPied>Brun</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Chanterelle en tube</nom>
+        <nomScientifique>Craterellus tubaeformis</nomScientifique>
+        <chapeau>Déprimé</chapeau>
+        <marge>Ondulée</marge>
+        <pied>Grêle</pied>
+        <lame>Espacé</lame>
+        <couleurChapeau>Jaunâtre</couleurChapeau>
+        <couleurHymenium>Jaunâtre</couleurHymenium>
+        <couleurDuPied>Jaunâtre</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+
+    <champignon>
+        <nom>Trompette-de-la-mort</nom>
+        <nomScientifique>Craterellus cornucopioides</nomScientifique>
+        <chapeau>Déprimé</chapeau>
+        <marge>Ondulée</marge>
+        <pied>Sineux</pied>
+        <lame>Néant</lame>
+        <couleurChapeau>Noir</couleurChapeau>
+        <couleurHymenium>Noir</couleurHymenium>
+        <couleurDuPied>Noir</couleurDuPied>
+        <comestibilité>Comestible</comestibilité>
+    </champignon>
+</champignons>
